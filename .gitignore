@@ -1,4 +1,17 @@
+# OS X
 .DS_Store
+
+# Javascript
 /node_modules
+
+# python
 *.pyc
 __pycache__
+
+# virtualenv
+bin/
+include/
+lib/
+share/
+pip-selfcheck.json
+pyvenc.cfg
