@@ -14,4 +14,4 @@ include/
 lib/
 share/
 pip-selfcheck.json
-pyvenc.cfg
+*.cfg
