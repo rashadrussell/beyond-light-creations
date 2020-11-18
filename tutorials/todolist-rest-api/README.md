@@ -5,6 +5,10 @@ This code is a tutorial on how to create a basic REST API with Django Rest Frame
 
 You should install virtual env, Python 3, and MySQL pre=installed. Python 3 and pip can be installed within the context of virtual environment. See official documentation on how to install these packages.
 
+**Tutorial Link**
+
+https://realrashadrussell.medium.com/build-a-rest-api-with-django-rest-framework-and-mysql-ddff0c1126ae
+
 **Requirements**
 
 - MySQL: v8.0 - https://dev.mysql.com/downloads/mysql/
